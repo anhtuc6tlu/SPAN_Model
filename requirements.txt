@@ -1,0 +1,8 @@
+matplotlib==3.10.8
+numpy==2.4.4
+optuna==4.8.0
+pillow==12.2.0
+pyiqa==0.1.15.post2
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+tqdm==4.67.3
